@@ -5,7 +5,7 @@ int main(){
     x = printf("Hello\n");
     printf("%d",x);
 
-    printf("hello world");
+    // printf("hello world");
     
     return 0;
 }
